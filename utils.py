@@ -1,4 +1,3 @@
-```python
 from bs4 import BeautifulSoup
 
 def parse_html(content):
